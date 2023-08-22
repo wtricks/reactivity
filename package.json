@@ -1,0 +1,32 @@
+{
+  "name": "@repup/reactivity",
+  "version": "1.0.0",
+  "displayName": "Repup Reactivity",
+  "description": "A lightweight, smaller javascript reactivity system.",
+  "author": {
+    "email": "thestackmastery@gmail.com",
+    "name": "Anuj Kumar",
+    "url": "https://github.com/thestackmastery"
+  },
+  "license": "MIT",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "prepublish": "tsc"
+  },
+  "keywords": ["reactivity","reactjs","javascript","framework","library","vue3","typescript"],
+  "devDependencies": {
+    "typescript": "^5.1.6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thestackmastery/reactivity.git"
+  },
+  "bugs": {
+    "url": "https://github.com/thestackmastery/reactivity/issues"
+  },
+  "homepage": "https://github.com/thestackmastery/reactivity",
+  "files": [
+    "lib"
+  ]
+}
